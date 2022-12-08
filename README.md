@@ -5,3 +5,4 @@
 4. Scanner Example
 5. Fahrenheit to Celsius 
 6. Swap using third variable
+7. Swap without third variable
