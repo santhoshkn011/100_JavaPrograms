@@ -4,3 +4,4 @@
 3. Command Line Arguments
 4. Scanner Example
 5. Fahrenheit to Celsius 
+6. Swap using third variable
